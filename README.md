@@ -5,4 +5,4 @@ This is a demo for git &amp; Github class
  Shradha Khapra 
 
  # Student
- Muhammad Naeems
+ Muhammad Naeem
